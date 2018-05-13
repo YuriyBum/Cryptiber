@@ -18,6 +18,7 @@ Using MetaMask&Remix:
 6. Copy the contract address and past into the "At address" field
 7. Paste your hash in to the "AddHash" field
 8. Confirm and submit the transaction
+9. Go to etherscan.io on the transaction link in the command line and save the tx hash
 
 Example you'll can find in this repository (txinfo.json).
 
